@@ -78,6 +78,15 @@ The completed lesson is reviewed for:
 
 The original educational material is transformed into a structured, interactive, and self-paced online learning resource that learners can access through an LMS.
 
+## Practical Experience
+
+My experience in eLearning content conversion includes working with academic learning materials and transforming them into structured, self-paced digital learning experiences.
+
+During my eLearning consultancy work with RUFORUM (October–December 2025), I converted traditional PDF and PowerPoint learning materials into online courses using Articulate Rise 360 and iSpring Suite for delivery through Moodle.
+
+My work at BUSE also involves supporting digital course development, managing Moodle learning content and assisting lecturers with the use of educational technologies.
+
+
 ## Tools Used
 
 - Articulate Rise 360
