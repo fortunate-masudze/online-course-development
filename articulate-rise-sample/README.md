@@ -48,7 +48,7 @@ This is a demonstration project showcas## Course Screenshots
 ![Course Introduction](course%20introduction.png)
 
 ### Interactive Flashcards
-![Interactive Flashcards](interactive-flashcards.png)
+![Interactive Flashcards](interactive%20flashcards.png)
 
 ### Accordion Activity
 ![Accordion Activity](accordion-activity.png)
