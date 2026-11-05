@@ -57,4 +57,4 @@ This is a demonstration project showcas## Course Screenshots
 ![Interactive Comparison or Timeline](Interactive%20comparison%20or%20timeline..png)
 
 ### Multiple-Choice Knowledge Check
-![Knowledge Check](knowledge-check.png)ing practical eLearning development skills. Institutional branding and materials are excluded from public distribution unless permission is granted.
+![Knowledge Check](Multiple-choice%20knowledge%20check..png)ing practical eLearning development skills. Institutional branding and materials are excluded from public distribution unless permission is granted.
