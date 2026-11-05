@@ -45,7 +45,7 @@ Learning objectives guide the content, while knowledge checks provide opportunit
 This is a demonstration project showcas## Course Screenshots
 
 ### Course Introduction
-![Course Introduction](course-introduction.png)
+![Course Introduction](course%20introduction.png)
 
 ### Interactive Flashcards
 ![Interactive Flashcards](interactive-flashcards.png)
