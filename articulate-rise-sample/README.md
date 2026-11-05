@@ -54,7 +54,7 @@ This is a demonstration project showcas## Course Screenshots
 ![Accordion Activity](Accordion%20activity.png)
 
 ### Interactive Comparison and Timeline
-![Interactive Comparison or Timeline](interactive-comparison.png)
+![Interactive Comparison or Timeline](Interactive%20comparison%20or%20timeline..png)
 
 ### Multiple-Choice Knowledge Check
 ![Knowledge Check](knowledge-check.png)ing practical eLearning development skills. Institutional branding and materials are excluded from public distribution unless permission is granted.
