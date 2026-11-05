@@ -42,4 +42,19 @@ Learning objectives guide the content, while knowledge checks provide opportunit
 
 ## Portfolio Note
 
-This is a demonstration project showcasing practical eLearning development skills. Institutional branding and materials are excluded from public distribution unless permission is granted.
+This is a demonstration project showcas## Course Screenshots
+
+### Course Introduction
+![Course Introduction](course-introduction.png)
+
+### Interactive Flashcards
+![Interactive Flashcards](interactive-flashcards.png)
+
+### Accordion Activity
+![Accordion Activity](accordion-activity.png)
+
+### Interactive Comparison and Timeline
+![Interactive Comparison or Timeline](interactive-comparison.png)
+
+### Multiple-Choice Knowledge Check
+![Knowledge Check](knowledge-check.png)ing practical eLearning development skills. Institutional branding and materials are excluded from public distribution unless permission is granted.
