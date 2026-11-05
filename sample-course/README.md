@@ -108,6 +108,16 @@ The following is an illustrative assessment structure:
 | Final course assessment | 70% |
 | **Total** | **100%** |
 
+## Instructional Design Principles Applied
+
+The sample course structure applies the following instructional design principles:
+
+- **Learner-centred design:** Content and activities are organised around clear learning outcomes.
+- **Logical sequencing:** Topics progress from foundational concepts to practical application.
+- **Content variety:** Interactive lessons, presentations, videos and downloadable resources support different learning preferences.
+- **Active learning:** Reflection activities encourage learners to connect concepts with real learning environments.
+- **Assessment alignment:** Quizzes and the final assessment evaluate the stated learning outcomes.
+- **Clear navigation:** Consistent headings and activity labels help learners understand what to do and where to go next.
 ## Note
 
 This is a sample course design created to demonstrate my approach to online course structuring and instructional design. It is not a published or completed Moodle course.
