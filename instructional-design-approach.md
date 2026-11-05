@@ -85,7 +85,18 @@ At Bindura University of Science Education, I support the organisation and manag
 I have also contributed to the development of standard Moodle course layouts and navigation guidelines to promote consistency across online courses.
 
 Through my RUFORUM consultancy, I gained practical experience converting existing educational materials into self-paced online learning experiences.
+## Course Review and Quality Assurance
 
+Before a course is made available to learners, I consider the following quality assurance areas:
+
+- **Content accuracy:** Learning materials are checked for accuracy, relevance and consistency.
+- **Instructional alignment:** Learning activities and assessments support the stated learning objectives.
+- **Navigation:** Course sections, resources and activities are clearly labelled and easy to locate.
+- **Functionality:** Interactive elements, quizzes, links and SCORM packages are tested.
+- **Learner experience:** Instructions, content presentation and multimedia are reviewed for usability.
+- **Consistency:** Course layouts, formatting and signposting follow the agreed design guidelines.
+
+This review process helps ensure that online courses are functional, organised and ready for delivery through the Learning Management System.
 ## Conclusion
 
 My goal is to develop online courses that are well structured, learner-centred, easy to navigate, and suitable for effective digital delivery.
