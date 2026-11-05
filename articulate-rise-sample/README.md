@@ -51,7 +51,7 @@ This is a demonstration project showcas## Course Screenshots
 ![Interactive Flashcards](interactive%20flashcards.png)
 
 ### Accordion Activity
-![Accordion Activity](accordion-activity.png)
+![Accordion Activity](Accordion%20activity.png)
 
 ### Interactive Comparison and Timeline
 ![Interactive Comparison or Timeline](interactive-comparison.png)
